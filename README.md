@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayankSingh04
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Web Devlopment.
+- 👀 I’m interested in AI and ML
+- 🌱 I’m currently learning mobile Devlopment.
 - 📫 you can reach me through mail
 mail-mayanksinghdhami7@gmail.com
 
