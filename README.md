@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MayankSingh04
-- 👀 I’m interested in WEB DEVLOPMENT
 - 📫 you can reach me through mail
 mayanksinghdhami7@gmail.com
 
