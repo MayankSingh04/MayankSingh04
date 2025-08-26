@@ -1,9 +1,12 @@
 <!-- Profile README for @MayankSingh04 -->
-<!-- Keep sections short, skimmable, and value-focused -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Engineer-AWS%20%7C%20Terraform%20%7C%20Python-2563eb?style=for-the-badge" alt="Cloud Engineer">
+</p>
 
 <h1 align="center">Hi, I'm Mayank Singh Dhami 👋</h1>
 <p align="center">
-  <b>Cloud Engineer</b> · <b>CS Undergrad (2026)</b> · <b>AWS | Terraform | Python</b>
+  Building secure, cost‑aware cloud systems with AWS, Terraform, and Serverless.
 </p>
 
 <p align="center">
@@ -15,45 +18,56 @@
 
 ---
 
-### About me
-- I build pragmatic, production-grade cloud systems with a focus on security, cost, and DX.
-- Comfortable across AWS serverless, IaC, containers, and modern web frontends.
-- I leverage AI tools to accelerate iteration while keeping architecture clean and documented.
+## TL;DR
+- Cloud Engineer and CS undergrad (2026) focused on security, reliability, and cost optimization.
+- End‑to‑end builder: IaC with Terraform → Serverless backends → clean, usable dashboards.
+- Fast iteration using AI tools, backed by clear metrics and docs.
 
 ---
 
-### What I’m working on
-- Building a real-time financial data pipeline on AWS (Kinesis → Lambda → RDS).
-- Extending “Cloud Auditor” to add automated remediation and better cost anomaly detection.
+## Spotlight Projects
+
+### Cloud Auditor — AWS Security & Cost Watchdog
+- IaC‑first deployment with Terraform.
+- Serverless backend (AWS Lambda, API Gateway) + DynamoDB for state.
+- Detects misconfigurations and cost anomalies; dashboard for insights.
+- Repo: https://github.com/MayankSingh04/cloud-auditor
+
+### Real‑Time Financial Data Platform
+- Streams 1,000+ crypto trades/min from WebSocket APIs → Amazon Kinesis → AWS Lambda.
+- Stores structured time‑series in Amazon RDS (MySQL) for analytics.
+- Infra as code with Terraform; designed for observability and back‑pressure handling.
+- Repo: coming soon (DM for a preview).
 
 ---
 
-### Skills
-- **Cloud & DevOps**: AWS (EC2, VPC, IAM, S3, Lambda, API Gateway), Terraform, Kubernetes, Docker
-- **Backend**: Python, REST, Serverless, Event-driven design
-- **Data**: DynamoDB, RDS (MySQL), PostgreSQL, MongoDB
-- **Frontend**: HTML, CSS, JavaScript, React (with Tailwind)
-- **Other**: Linux, Bash, Git, CI/CD
+## Technical Skills
+- Cloud & DevOps: AWS (VPC, EC2, S3, IAM, Lambda, API Gateway), Terraform, Docker, Kubernetes
+- Backend: Python, REST APIs, Serverless, Event‑driven design
+- Data: DynamoDB, RDS (MySQL), PostgreSQL, MongoDB
+- Frontend: React, Tailwind CSS, modern UX for dashboards
+- OS & Tools: Linux, Bash, Git, CI/CD
 
 ---
 
-### Featured projects
-- [Cloud Auditor – AWS Security & Cost Watchdog](https://github.com/MayankSingh04/cloud-auditor)  
-  Serverless scanning for misconfigs and anomalies. Terraform for end-to-end IaC; Lambda + DynamoDB backend; React dashboard.
-- Real‑Time Financial Data Platform (Kinesis, Lambda, RDS, Terraform)  
-  Streams 1,000+ crypto trades/min from WebSocket APIs into a structured store for analytics. Repo coming soon.
+## Principles I build with
+- Security by default (least privilege IAM, network boundaries, secrets hygiene)
+- Cost‑aware design (right sizing, on‑demand vs reserved, observability)
+- IaC everything (reviewable changes, reproducible envs, zero‑drift)
+- Pragmatism > perfection (ship small, measure, iterate)
 
 ---
 
-### Experience that shapes my engineering
-- Trader’s mindset: risk management, fast feedback loops, and clear metrics drive my build decisions.
+## What I’m doing now
+- Extending Cloud Auditor with automated remediation runbooks and anomaly detection.
+- Open to internships and projects in Cloud, AI, and FinTech.
 
 ---
 
-### Stats (auto‑generated)
+## Proof
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MayankSingh04&show_icons=true&theme=transparent&hide_title=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankSingh04&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MayankSingh04&show_icons=true&theme=transparent&hide_title=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankSingh04&theme=transparent" height="150" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSingh04&layout=compact&theme=transparent&hide_title=true" height="140" />
@@ -61,7 +75,7 @@
 
 ---
 
-### How to reach me
-- Email: **mayanksinghdhami7@gmail.com**
-- LinkedIn: **/in/mayanksdhami/**
-- Phone: **+91 9012176321**
+## Get in touch
+- Email: <mayanksinghdhami7@gmail.com>
+- LinkedIn: [in/mayanksdhami](https://www.linkedin.com/in/mayanksdhami/)
+- Website: [mayanksinghdhami.dev](https://mayanksinghdhami.dev)
